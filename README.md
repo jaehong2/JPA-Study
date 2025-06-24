@@ -6,5 +6,5 @@
 3. [엔티티 매핑](https://wirehaired-garnet-c0c.notion.site/3-20e100d2b08f80d18871d2049e2bf49a?source=copy_link)
 4. [연관관계 매핑](https://wirehaired-garnet-c0c.notion.site/4-211100d2b08f80edbe17c7bf50e0c71f?source=copy_link)
 5. [프록시와 연관관계](https://wirehaired-garnet-c0c.notion.site/5-211100d2b08f802c99c8e167545e86f0?source=copy_link)
-6. 값타입
+6. [값 타입](https://wirehaired-garnet-c0c.notion.site/6-21c100d2b08f80c99c1cdaaecef0d6ed?source=copy_link)
 7. 객체지향 쿼리 언어 (JQPL) 
